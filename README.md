@@ -1,2 +1,3 @@
-# nja-public-brand-assets
-Approved public NJA brand images for email signatures. No client information or credentials.
+# NJA public brand assets
+
+Approved brand images only. NJA and Nasir Salman retain their rights in the marks. No client data, credentials or internal documents are stored here.
